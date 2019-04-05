@@ -3,7 +3,7 @@
 If you are a Harry Potter fan like me, you would know what an Invisibility Cloak is. Yes! It’s the cloak which Harry Potter uses to become invisible. Of course, we all know that an invisibility cloak is not real — it’s all graphics trickery.
 Well, it turns out that you can create this magical experience using an image processing technique called color detection and segmentation. And the good news is, you don’t need to be part of Hogwarts for that!
 
-### All you need is a red colored cloth and invi.py file.
+### All you need is a red colored cloth and invisible_red_shirt.py file.
 
 ## How does it work ?
 The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground!
